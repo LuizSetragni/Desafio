@@ -11,7 +11,7 @@
 
 ### Objetivo
 
-Este projeto tem como objetivo treinar e testar meus conhecimentos lógicos de programação e com isso ser avaliado no processo seletico da Academia Tecnica Capgemini 2022.
+Este projeto tem como objetivo treinar e testar meus conhecimentos lógicos de programação na Academia Técnica Capgemini 2022.
 
 ### Pre-requisitos
 
